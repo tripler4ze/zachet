@@ -1,0 +1,15 @@
+B:\работы java\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.exe
+B:\работы java\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.deps.json
+B:\работы java\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.runtimeconfig.json
+B:\работы java\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.dll
+B:\работы java\ConsoleApp11\ConsoleApp11\bin\Debug\net7.0\ConsoleApp11.pdb
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.csproj.AssemblyReference.cache
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.AssemblyInfoInputs.cache
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.AssemblyInfo.cs
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.dll
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\refint\ConsoleApp11.dll
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.pdb
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ConsoleApp11.genruntimeconfig.cache
+B:\работы java\ConsoleApp11\ConsoleApp11\obj\Debug\net7.0\ref\ConsoleApp11.dll
